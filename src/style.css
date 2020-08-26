@@ -2,11 +2,11 @@
   margin-bottom: 20px;
 }
 
-p {
+.record {
   margin-bottom: 10px;
   margin-top: 0;
 }
 
-p:last-child {
+.record:last-child {
   margin-bottom: 0;
 }
