@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,aACE,kBACF,CAEA,QACE,kBAAmB,CACnB,YACF,CAEA,mBACE,eACF","file":"style.4311b150.css","sourceRoot":"..\\src","sourcesContent":[".information {\r\n  margin-bottom: 20px;\r\n}\r\n\r\n.record {\r\n  margin-bottom: 10px;\r\n  margin-top: 0;\r\n}\r\n\r\n.record:last-child {\r\n  margin-bottom: 0;\r\n}\r\n"]}
